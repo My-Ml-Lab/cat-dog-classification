@@ -5,9 +5,13 @@ A deep learning project that classifies images as either cats or dogs using a Co
 
 
 🧠 Model Highlights
+
 ✅ Image augmentation using ImageDataGenerator
+
 ✅ Custom CNN built with Conv2D, MaxPooling2D, Dense, and Dropout
+
 ✅ Uses EarlyStopping and ModelCheckpoint for efficient training
+
 ✅ Visualizes accuracy/loss using Matplotlib
 
 🧰 Libraries Used
