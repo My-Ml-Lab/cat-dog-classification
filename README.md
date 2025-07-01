@@ -1,6 +1,7 @@
-# cat-dog-classification
+
 
 🐱🐶 Cat vs Dog Image Classification
+
 A deep learning project that classifies images as either cats or dogs using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
 
