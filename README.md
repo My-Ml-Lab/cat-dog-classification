@@ -1,25 +1,22 @@
 # cat-dog-classification
 
 🐱🐶 Cat vs Dog Image Classification
-This repository contains a deep learning project that classifies images as either cats or dogs using a convolutional neural network (CNN) built with TensorFlow and Keras.
+A deep learning project that classifies images as either cats or dogs using a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
 
 🧠 Model Highlights
-Utilizes image augmentation techniques with ImageDataGenerator
-
-CNN architecture built using Keras layers (Conv2D, MaxPooling2D, Flatten, Dense, Dropout)
-
-Includes callbacks: EarlyStopping and ModelCheckpoint to improve performance
+✅ Image augmentation using ImageDataGenerator
+✅ Custom CNN built with Conv2D, MaxPooling2D, Dense, and Dropout
+✅ Uses EarlyStopping and ModelCheckpoint for efficient training
+✅ Visualizes accuracy/loss using Matplotlib
 
 🧰 Libraries Used
-The project is implemented in Python and uses the following libraries:
+This project uses:
 
-tensorflow – for deep learning model building and training
+🔢 numpy – numerical computations
 
-numpy – for numerical operations
+📊 matplotlib – visualizations
 
-matplotlib – for data visualization
+🧠 tensorflow.keras – model, layers, and callbacks
 
-os and shutil – for dataset directory handling
 
-zipfile – for extracting datasets
